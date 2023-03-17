@@ -5,3 +5,5 @@ pytest
 requests
 fastapi
 uvicorn
+yaml
+joblib
